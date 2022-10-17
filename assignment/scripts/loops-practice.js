@@ -40,10 +40,10 @@ for(i=0; i<nums.length; i++) {
 console.log('count even numbers from 2 to 10 (2, 4, 6, 8, 10):', even);
 
 // 1.d. (STRETCH) TODO: Write a for loop to do a countdown from 5 to 0
-// for (i=0; i<6; i++) {
+for (i=5; i>=0; i--) {
   
-//   console.log('STRETCH: countdown from 5 to 0', );
-// }
+  console.log('STRETCH: countdown from 5 to 0', i);
+}
 
 
 // 2. For of loops  
